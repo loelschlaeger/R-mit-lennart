@@ -1,0 +1,10 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/content/geschichte.html",
+      "/content/installation.html",
+      "/content/rstudio.html"
+    ]
+  }
+]

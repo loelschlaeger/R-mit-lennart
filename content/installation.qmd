@@ -1,0 +1,10 @@
+---
+title: "Installation von R"
+---
+
+## Windows
+
+## Mac OS X
+
+## Ubuntu
+
